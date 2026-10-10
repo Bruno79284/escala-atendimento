@@ -1,53 +1,338 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>Escala de Atendimento</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Escala Operacional P5</title>
+
 <style>
+
+:root{
+    --azul:#081d42;
+    --azul2:#102b63;
+    --laranja:#f58220;
+    --branco:#ffffff;
+    --cinza:#f4f6f9;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
 body{
-    font-family: Arial, sans-serif;
-    background:#f5f5f5;
-    padding:20px;
+    font-family:'Segoe UI',sans-serif;
+    background:var(--cinza);
+    color:#222;
 }
-table{
-    width:100%;
-    border-collapse:collapse;
-    background:white;
-}
-th{
-    background:#003366;
+
+.hero{
+    height:420px;
+    background:
+    linear-gradient(
+        rgba(8,29,66,.85),
+        rgba(8,29,66,.90)
+    ),
+    url('header.jpg');
+
+    background-size:cover;
+    background-position:center;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
     color:white;
 }
-th,td{
-    border:1px solid #ddd;
-    padding:12px;
+
+.hero-content{
+    max-width:900px;
+    padding:20px;
+}
+
+.logo{
+    width:120px;
+    margin-bottom:15px;
+}
+
+.hero h1{
+    font-size:3rem;
+    margin-bottom:10px;
+}
+
+.hero p{
+    font-size:1.2rem;
+    opacity:.9;
+}
+
+.semana{
+    margin-top:25px;
+    display:inline-block;
+    background:var(--laranja);
+    padding:12px 25px;
+    border-radius:30px;
+    font-weight:bold;
+    font-size:1.1rem;
+}
+
+.container{
+    max-width:1200px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+.info-card{
+    background:white;
+    border-radius:15px;
+    padding:20px;
+    text-align:center;
+    margin-top:-50px;
+    box-shadow:0 10px 30px rgba(0,0,0,.15);
+}
+
+.info-card h2{
+    color:var(--azul);
+}
+
+.info-card p{
+    margin-top:10px;
+    font-size:1.1rem;
+}
+
+table{
+    width:100%;
+    margin-top:30px;
+    border-collapse:collapse;
+    background:white;
+    border-radius:15px;
+    overflow:hidden;
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+}
+
+th{
+    background:var(--azul);
+    color:white;
+    padding:18px;
+}
+
+td{
+    padding:18px;
+    border-bottom:1px solid #ececec;
+}
+
+tr:hover{
+    background:#fafafa;
+}
+
+.cards{
+    margin-top:35px;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:20px;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+}
+
+.card h3{
+    color:var(--azul);
+    margin-bottom:15px;
+}
+
+ul{
+    list-style:none;
+}
+
+li{
+    padding:8px 0;
+}
+
+.footer{
+    background:var(--azul);
+    color:white;
+    text-align:center;
+    padding:25px;
+    margin-top:50px;
+}
+
+.print{
+    margin:30px 0;
     text-align:center;
 }
-h1{
-    color:#003366;
+
+button{
+    background:var(--laranja);
+    color:white;
+    border:none;
+    padding:14px 30px;
+    border-radius:30px;
+    cursor:pointer;
+    font-size:1rem;
+    font-weight:bold;
 }
+
+button:hover{
+    opacity:.9;
+}
+
+@media(max-width:768px){
+
+.hero{
+height:auto;
+padding:60px 20px;
+}
+
+.hero h1{
+font-size:2rem;
+}
+
+table{
+font-size:.9rem;
+}
+
+}
+
+@media print{
+button{
+display:none;
+}
+}
+
 </style>
 </head>
+
 <body>
 
-<h1>Escala Semanal de Atendimento</h1>
+<section class="hero">
+
+<div class="hero-content">
+
+brasao.png
+
+<h1>ESCALA OPERACIONAL</h1>
+
+<p>P5 • Comunicação Social • 29º BPM</p>
+
+<p style="margin-top:10px;">
+Comunicação que Conecta.<br>
+Presença que Protege.
+</p>
+
+<div class="semana">
+SEMANA: 12/10/2026 A 18/10/2026
+</div>
+
+</div>
+
+</section>
+
+<div class="container">
+
+<div class="info-card">
+
+<h2>Horário Operacional</h2>
+
+<p>
+Segunda-feira a Sábado<br>
+08h00 às 18h00
+</p>
+
+</div>
 
 <table>
+
+<thead>
 <tr>
 <th>Dia</th>
-<th>Horário</th>
-<th>Equipe</th>
+<th>Equipe Responsável</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Segunda-feira</td>
+<td>Silvana e Olla</td>
 </tr>
 
-<tr><td>Segunda</td><td>08h às 18h</td><td>Silvana e Olla</td></tr>
-<tr><td>Terça</td><td>08h às 18h</td><td>Suzano e Wagner</td></tr>
-<tr><td>Quarta</td><td>08h às 18h</td><td>Silvana e Olla</td></tr>
-<tr><td>Quinta</td><td>08h às 18h</td><td>Suzano e Wagner</td></tr>
-<tr><td>Sexta</td><td>08h às 18h</td><td>Silvana e Olla</td></tr>
-<tr><td>Sábado</td><td>08h às 18h</td><td>Suzano e Wagner</td></tr>
-<tr><td>Domingo</td><td>Sobre Aviso</td><td>Todas as equipes</td></tr>
+<tr>
+<td>Terça-feira</td>
+<td>Suzano e Wagner</td>
+</tr>
+
+<tr>
+<td>Quarta-feira</td>
+<td>Silvana e Olla</td>
+</tr>
+
+<tr>
+<td>Quinta-feira</td>
+<td>Suzano e Wagner</td>
+</tr>
+
+<tr>
+<td>Sexta-feira</td>
+<td>Silvana e Olla</td>
+</tr>
+
+<tr>
+<td>Sábado</td>
+<td>Suzano e Wagner</td>
+</tr>
+
+<tr>
+<td><strong>Domingo</strong></td>
+<td><strong>SOBREAVISO</strong></td>
+</tr>
+
+</tbody>
 
 </table>
+
+<div class="cards">
+
+<div class="card">
+<h3>Equipe 01</h3>
+
+<ul>
+<li>Silvana</li>
+<li>Olla</li>
+</ul>
+
+</div>
+
+<div class="card">
+<h3>Equipe 02</h3>
+
+<ul>
+<li>Suzano</li>
+<li>Wagner</li>
+</ul>
+
+</div>
+
+</div>
+
+<div class="print">
+
+<button onclick="window.print()">
+Imprimir PDF
+</button>
+
+</div>
+
+</div>
+
+<footer class="footer">
+
+29º BPM • Comunicação Social • P5
+
+</footer>
 
 </body>
 </html>
