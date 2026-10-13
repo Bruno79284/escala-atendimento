@@ -6,16 +6,16 @@
 ########################################################################
 
 ========================================================================
-  S3 • 3ª SEMANA DE OUTUBRO/2026  •  13/10/2026 (Terça-feira) a 17/10/2026 (Sábado)
+  S3 • 3ª SEMANA DE OUTUBRO/2026  •  13/10/2026 (Terça-feira) a 14/10/2026 (Quarta-feira)
   Efetivo: 1 policial(is)
 ========================================================================
 
   [0001]  1º SGT PM   RG 79284     SUZANO                 Tipo: 12 horas
-          ID: e-de83ec144b7768c5   |   Criado: 13/10/2026 15:52   |   Atualizado: 13/10/2026 16:05
-          Dias: TER 13/10, QUA 14/10, QUI 15/10, SEX 16/10, SÁB 17/10   (5 dias)
+          ID: e-de83ec144b7768c5   |   Criado: 13/10/2026 15:52   |   Atualizado: 13/10/2026 16:34
+          Dias: TER 13/10, QUA 14/10   (2 dias)
           Observações:
             TROCA
-@registro {"id":"e-de83ec144b7768c5","semana":3,"mes":"2026-10","tipo":"h12","inicio":"2026-10-13","termino":"2026-10-17","dias":["2026-10-13","2026-10-14","2026-10-15","2026-10-16","2026-10-17"],"grad":"1º SGT PM","rg":"79284","nome":"SUZANO","observacoes":"TROCA","criadoEm":1791917522495,"atualizadoEm":1791918339291}
+@registro {"id":"e-de83ec144b7768c5","semana":3,"mes":"2026-10","tipo":"h12","inicio":"2026-10-13","termino":"2026-10-14","dias":["2026-10-13","2026-10-14"],"grad":"1º SGT PM","rg":"79284","nome":"SUZANO","observacoes":"TROCA","criadoEm":1791917522495,"atualizadoEm":1791920055386}
   ----------------------------------------------------------------------
 
 # FIM DO ARQUIVO
