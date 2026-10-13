@@ -2,12 +2,12 @@
 #  DB-LOCAL-TXT • ESCALA P5 • COMUNICAÇÃO SOCIAL • 29º BPM
 #  Cada registro tem um bloco legível e uma linha "@registro" (JSON),
 #  que é a parte lida pelo sistema. Não altere a estrutura dessa linha.
-#  Atualizado em: 13/10/2026 16:37   |   Registros: 3   |   Períodos: 1
+#  Atualizado em: 13/10/2026 16:56   |   Registros: 2   |   Períodos: 1
 ########################################################################
 
 ========================================================================
   S3 • 3ª SEMANA DE OUTUBRO/2026  •  13/10/2026 (Terça-feira) a 17/10/2026 (Sábado)
-  Efetivo: 3 policial(is)
+  Efetivo: 2 policial(is)
 ========================================================================
 
   [0001]  1º SGT PM   RG 79284     SUZANO                 Tipo: 12 horas
@@ -23,13 +23,6 @@
           Dias: QUI 15/10, SÁB 17/10   (2 dias)
           Observações: —
 @registro {"id":"e-b2918e63d78817de","semana":3,"mes":"2026-10","tipo":"expediente","inicio":"2026-10-15","termino":"2026-10-17","dias":["2026-10-15","2026-10-17"],"grad":"3º SGT PM","rg":"98000","nome":"OLLA","observacoes":"","criadoEm":1791920178045,"atualizadoEm":1791920178045}
-  ----------------------------------------------------------------------
-
-  [0003]  3º SGT PM   RG 97000     SILVANA                Tipo: 12 horas
-          ID: e-a2fc3bf2394a5a86   |   Criado: 13/10/2026 16:37   |   Atualizado: 13/10/2026 16:37
-          Dias: QUI 15/10, SEX 16/10, SÁB 17/10   (3 dias)
-          Observações: —
-@registro {"id":"e-a2fc3bf2394a5a86","semana":3,"mes":"2026-10","tipo":"h12","inicio":"2026-10-15","termino":"2026-10-17","dias":["2026-10-15","2026-10-16","2026-10-17"],"grad":"3º SGT PM","rg":"97000","nome":"SILVANA","observacoes":"","criadoEm":1791920238992,"atualizadoEm":1791920238992}
   ----------------------------------------------------------------------
 
 # FIM DO ARQUIVO
