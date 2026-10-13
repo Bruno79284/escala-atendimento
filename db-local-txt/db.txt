@@ -2,7 +2,7 @@
 #  DB-LOCAL-TXT • ESCALA P5 • COMUNICAÇÃO SOCIAL • 29º BPM
 #  Cada registro tem um bloco legível e uma linha "@registro" (JSON),
 #  que é a parte lida pelo sistema. Não altere a estrutura dessa linha.
-#  Atualizado em: 13/10/2026 16:01   |   Registros: 1   |   Períodos: 1
+#  Atualizado em: 13/10/2026 16:02   |   Registros: 1   |   Períodos: 1
 ########################################################################
 
 ========================================================================
@@ -10,10 +10,10 @@
   Efetivo: 1 policial(is)
 ========================================================================
 
-  [0001]  1º SGT PM   RG 79284     SUZANO                 Tipo: 12 horas
-          ID: e-de83ec144b7768c5   |   Criado: 13/10/2026 15:52   |   Atualizado: 13/10/2026 16:01
+  [0001]  1º SGT PM   RG 79284     SUZANOAAAAAAAAAAAAAAAA Tipo: 12 horas
+          ID: e-de83ec144b7768c5   |   Criado: 13/10/2026 15:52   |   Atualizado: 13/10/2026 16:02
           Observações: —
-@registro {"id":"e-de83ec144b7768c5","semana":3,"mes":"2026-10","tipo":"h12","inicio":"2026-10-13","termino":"2026-10-17","grad":"1º SGT PM","rg":"79284","nome":"SUZANO","observacoes":"","criadoEm":1791917522495,"atualizadoEm":1791918116777}
+@registro {"id":"e-de83ec144b7768c5","semana":3,"mes":"2026-10","tipo":"h12","inicio":"2026-10-13","termino":"2026-10-17","grad":"1º SGT PM","rg":"79284","nome":"SUZANOAAAAAAAAAAAAAAAAA","observacoes":"","criadoEm":1791917522495,"atualizadoEm":1791918129683}
   ----------------------------------------------------------------------
 
 # FIM DO ARQUIVO
