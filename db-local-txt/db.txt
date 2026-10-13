@@ -2,12 +2,12 @@
 #  DB-LOCAL-TXT • ESCALA P5 • COMUNICAÇÃO SOCIAL • 29º BPM
 #  Cada registro tem um bloco legível e uma linha "@registro" (JSON),
 #  que é a parte lida pelo sistema. Não altere a estrutura dessa linha.
-#  Atualizado em: 13/10/2026 16:56   |   Registros: 2   |   Períodos: 1
+#  Atualizado em: 13/10/2026 16:56   |   Registros: 1   |   Períodos: 1
 ########################################################################
 
 ========================================================================
-  S3 • 3ª SEMANA DE OUTUBRO/2026  •  13/10/2026 (Terça-feira) a 17/10/2026 (Sábado)
-  Efetivo: 2 policial(is)
+  S3 • 3ª SEMANA DE OUTUBRO/2026  •  13/10/2026 (Terça-feira) a 14/10/2026 (Quarta-feira)
+  Efetivo: 1 policial(is)
 ========================================================================
 
   [0001]  1º SGT PM   RG 79284     SUZANO                 Tipo: 12 horas
@@ -16,13 +16,6 @@
           Observações:
             TROCA
 @registro {"id":"e-de83ec144b7768c5","semana":3,"mes":"2026-10","tipo":"h12","inicio":"2026-10-13","termino":"2026-10-14","dias":["2026-10-13","2026-10-14"],"grad":"1º SGT PM","rg":"79284","nome":"SUZANO","observacoes":"TROCA","criadoEm":1791917522495,"atualizadoEm":1791920055386}
-  ----------------------------------------------------------------------
-
-  [0002]  3º SGT PM   RG 98000     OLLA                   Tipo: Expediente
-          ID: e-b2918e63d78817de   |   Criado: 13/10/2026 16:36   |   Atualizado: 13/10/2026 16:36
-          Dias: QUI 15/10, SÁB 17/10   (2 dias)
-          Observações: —
-@registro {"id":"e-b2918e63d78817de","semana":3,"mes":"2026-10","tipo":"expediente","inicio":"2026-10-15","termino":"2026-10-17","dias":["2026-10-15","2026-10-17"],"grad":"3º SGT PM","rg":"98000","nome":"OLLA","observacoes":"","criadoEm":1791920178045,"atualizadoEm":1791920178045}
   ----------------------------------------------------------------------
 
 # FIM DO ARQUIVO
