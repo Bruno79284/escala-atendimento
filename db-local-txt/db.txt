@@ -2,12 +2,12 @@
 #  DB-LOCAL-TXT • ESCALA P5 • COMUNICAÇÃO SOCIAL • 29º BPM
 #  Cada registro tem um bloco legível e uma linha "@registro" (JSON),
 #  que é a parte lida pelo sistema. Não altere a estrutura dessa linha.
-#  Atualizado em: 13/10/2026 17:02   |   Registros: 4   |   Períodos: 1
+#  Atualizado em: 14/10/2026 17:21   |   Registros: 5   |   Períodos: 1
 ########################################################################
 
 ========================================================================
   S3 • 3ª SEMANA DE OUTUBRO/2026  •  13/10/2026 (Terça-feira) a 17/10/2026 (Sábado)
-  Efetivo: 4 policial(is)
+  Efetivo: 5 policial(is)
 ========================================================================
 
   [0001]  1º SGT PM   RG 79284     SUZANO                 Tipo: 12 horas
@@ -25,14 +25,21 @@
 @registro {"id":"e-1a719f4c126444a7","semana":3,"mes":"2026-10","tipo":"h12","inicio":"2026-10-14","termino":"2026-10-16","dias":["2026-10-14","2026-10-16"],"grad":"2º SGT PM","rg":"83094","nome":"WAGNER","observacoes":"","criadoEm":1791921681965,"atualizadoEm":1791921681965}
   ----------------------------------------------------------------------
 
-  [0003]  3º SGT PM   RG 99817     OLLA                   Tipo: 12 horas
+  [0003]  2º SGT PM   RG 83000     WAGNER                 Tipo: 12 horas
+          ID: e-593b1e1c3f9fb595   |   Criado: 14/10/2026 17:21   |   Atualizado: 14/10/2026 17:21
+          Dias: QUA 14/10, SEX 16/10   (2 dias)
+          Observações: —
+@registro {"id":"e-593b1e1c3f9fb595","semana":3,"mes":"2026-10","tipo":"h12","inicio":"2026-10-14","termino":"2026-10-16","dias":["2026-10-14","2026-10-16"],"grad":"2º SGT PM","rg":"83000","nome":"WAGNER","observacoes":"","criadoEm":1792009261527,"atualizadoEm":1792009261527}
+  ----------------------------------------------------------------------
+
+  [0004]  3º SGT PM   RG 99817     OLLA                   Tipo: 12 horas
           ID: e-e4a660337ab9c6fb   |   Criado: 13/10/2026 17:02   |   Atualizado: 13/10/2026 17:02
           Dias: QUI 15/10, SÁB 17/10   (2 dias)
           Observações: —
 @registro {"id":"e-e4a660337ab9c6fb","semana":3,"mes":"2026-10","tipo":"h12","inicio":"2026-10-15","termino":"2026-10-17","dias":["2026-10-15","2026-10-17"],"grad":"3º SGT PM","rg":"99817","nome":"OLLA","observacoes":"","criadoEm":1791921753561,"atualizadoEm":1791921753561}
   ----------------------------------------------------------------------
 
-  [0004]  3º SGT PM   RG 92021     SILVANA                Tipo: 12 horas
+  [0005]  3º SGT PM   RG 92021     SILVANA                Tipo: 12 horas
           ID: e-58772447108f6bf3   |   Criado: 13/10/2026 17:01   |   Atualizado: 13/10/2026 17:01
           Dias: QUI 15/10, SEX 16/10, SÁB 17/10   (3 dias)
           Observações: —
