@@ -2,7 +2,7 @@
 #  DB-LOCAL-TXT • ESCALA P5 • COMUNICAÇÃO SOCIAL • 29º BPM
 #  Cada registro tem um bloco legível e uma linha "@registro" (JSON),
 #  que é a parte lida pelo sistema. Não altere a estrutura dessa linha.
-#  Atualizado em: 19/10/2026 20:12   |   Registros: 6   |   Períodos: 2
+#  Atualizado em: 19/10/2026 20:12   |   Registros: 7   |   Períodos: 2
 ########################################################################
 
 ========================================================================
@@ -41,7 +41,7 @@
 
 ========================================================================
   S4 • 4ª SEMANA DE OUTUBRO/2026  •  19/10/2026 (Segunda-feira) a 25/10/2026 (Domingo)
-  Efetivo: 2 policial(is)
+  Efetivo: 3 policial(is)
 ========================================================================
 
   [0005]  3º SGT PM   RG 92021     SILVANA                Tipo: 12 horas
@@ -51,7 +51,15 @@
 @registro {"id":"e-f9903596f57171c9","semana":4,"mes":"2026-10","tipo":"h12","inicio":"2026-10-19","termino":"2026-10-23","dias":["2026-10-19","2026-10-21","2026-10-23"],"grad":"3º SGT PM","rg":"92021","nome":"SILVANA","observacoes":"","criadoEm":1792451441443,"atualizadoEm":1792451441443}
   ----------------------------------------------------------------------
 
-  [0006]  3º SGT PM   RG 99817     OLLA                   Tipo: 12 horas
+  [0006]  1º SGT PM   RG 79284     SUZANO                 Tipo: 12 horas
+          ID: e-c50a830a1332eab1   |   Criado: 19/10/2026 20:12   |   Atualizado: 19/10/2026 20:12
+          Dias: TER 20/10, QUI 22/10, SÁB 24/10   (3 dias)
+          Observações:
+            TROCA
+@registro {"id":"e-c50a830a1332eab1","semana":4,"mes":"2026-10","tipo":"h12","inicio":"2026-10-20","termino":"2026-10-24","dias":["2026-10-20","2026-10-22","2026-10-24"],"grad":"1º SGT PM","rg":"79284","nome":"SUZANO","observacoes":"TROCA","criadoEm":1792451558940,"atualizadoEm":1792451558940}
+  ----------------------------------------------------------------------
+
+  [0007]  3º SGT PM   RG 99817     OLLA                   Tipo: 12 horas
           ID: e-12537fba1e370404   |   Criado: 19/10/2026 20:12   |   Atualizado: 19/10/2026 20:12
           Dias: QUA 21/10, DOM 25/10   (2 dias)
           Observações: —
