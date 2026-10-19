@@ -2,7 +2,7 @@
 #  DB-LOCAL-TXT • ESCALA P5 • COMUNICAÇÃO SOCIAL • 29º BPM
 #  Cada registro tem um bloco legível e uma linha "@registro" (JSON),
 #  que é a parte lida pelo sistema. Não altere a estrutura dessa linha.
-#  Atualizado em: 19/10/2026 20:10   |   Registros: 5   |   Períodos: 2
+#  Atualizado em: 19/10/2026 20:12   |   Registros: 6   |   Períodos: 2
 ########################################################################
 
 ========================================================================
@@ -40,8 +40,8 @@
   ----------------------------------------------------------------------
 
 ========================================================================
-  S4 • 4ª SEMANA DE OUTUBRO/2026  •  19/10/2026 (Segunda-feira) a 23/10/2026 (Sexta-feira)
-  Efetivo: 1 policial(is)
+  S4 • 4ª SEMANA DE OUTUBRO/2026  •  19/10/2026 (Segunda-feira) a 25/10/2026 (Domingo)
+  Efetivo: 2 policial(is)
 ========================================================================
 
   [0005]  3º SGT PM   RG 92021     SILVANA                Tipo: 12 horas
@@ -49,6 +49,13 @@
           Dias: SEG 19/10, QUA 21/10, SEX 23/10   (3 dias)
           Observações: —
 @registro {"id":"e-f9903596f57171c9","semana":4,"mes":"2026-10","tipo":"h12","inicio":"2026-10-19","termino":"2026-10-23","dias":["2026-10-19","2026-10-21","2026-10-23"],"grad":"3º SGT PM","rg":"92021","nome":"SILVANA","observacoes":"","criadoEm":1792451441443,"atualizadoEm":1792451441443}
+  ----------------------------------------------------------------------
+
+  [0006]  3º SGT PM   RG 99817     OLLA                   Tipo: 12 horas
+          ID: e-12537fba1e370404   |   Criado: 19/10/2026 20:12   |   Atualizado: 19/10/2026 20:12
+          Dias: QUA 21/10, DOM 25/10   (2 dias)
+          Observações: —
+@registro {"id":"e-12537fba1e370404","semana":4,"mes":"2026-10","tipo":"h12","inicio":"2026-10-21","termino":"2026-10-25","dias":["2026-10-21","2026-10-25"],"grad":"3º SGT PM","rg":"99817","nome":"OLLA","observacoes":"","criadoEm":1792451525205,"atualizadoEm":1792451525205}
   ----------------------------------------------------------------------
 
 # FIM DO ARQUIVO
