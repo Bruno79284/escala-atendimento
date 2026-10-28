@@ -2,7 +2,7 @@
 #  DB-LOCAL-TXT • ESCALA P5 • COMUNICAÇÃO SOCIAL • 29º BPM
 #  Cada registro tem um bloco legível e uma linha "@registro" (JSON),
 #  que é a parte lida pelo sistema. Não altere a estrutura dessa linha.
-#  Atualizado em: 20/10/2026 10:33   |   Registros: 8   |   Períodos: 2
+#  Atualizado em: 28/10/2026 11:49   |   Registros: 9   |   Períodos: 3
 ########################################################################
 
 ========================================================================
@@ -71,6 +71,19 @@
           Dias: QUA 21/10, DOM 25/10   (2 dias)
           Observações: —
 @registro {"id":"e-12537fba1e370404","semana":4,"mes":"2026-10","tipo":"h12","inicio":"2026-10-21","termino":"2026-10-25","dias":["2026-10-21","2026-10-25"],"grad":"3º SGT PM","rg":"99817","nome":"OLLA","observacoes":"","criadoEm":1792451525205,"atualizadoEm":1792451525205}
+  ----------------------------------------------------------------------
+
+========================================================================
+  S5 • 5ª SEMANA DE OUTUBRO/2026  •  28/10/2026 (Quarta-feira) a 30/10/2026 (Sexta-feira)
+  Efetivo: 1 policial(is)
+========================================================================
+
+  [0009]  1º SGT PM   RG 79284     SUZANO                 Tipo: 12 horas
+          ID: e-cc6d93665ce97eda   |   Criado: 28/10/2026 11:49   |   Atualizado: 28/10/2026 11:49
+          Dias: QUA 28/10, SEX 30/10   (2 dias)
+          Observações:
+            TROCA
+@registro {"id":"e-cc6d93665ce97eda","semana":5,"mes":"2026-10","tipo":"h12","inicio":"2026-10-28","termino":"2026-10-30","dias":["2026-10-28","2026-10-30"],"grad":"1º SGT PM","rg":"79284","nome":"SUZANO","observacoes":"TROCA","criadoEm":1793198941799,"atualizadoEm":1793198941799}
   ----------------------------------------------------------------------
 
 # FIM DO ARQUIVO
