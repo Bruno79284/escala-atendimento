@@ -2,7 +2,7 @@
 #  DB-LOCAL-TXT • ESCALA P5 • COMUNICAÇÃO SOCIAL • 29º BPM
 #  Cada registro tem um bloco legível e uma linha "@registro" (JSON),
 #  que é a parte lida pelo sistema. Não altere a estrutura dessa linha.
-#  Atualizado em: 28/10/2026 11:49   |   Registros: 9   |   Períodos: 3
+#  Atualizado em: 28/10/2026 11:49   |   Registros: 10   |   Períodos: 3
 ########################################################################
 
 ========================================================================
@@ -75,7 +75,7 @@
 
 ========================================================================
   S5 • 5ª SEMANA DE OUTUBRO/2026  •  28/10/2026 (Quarta-feira) a 30/10/2026 (Sexta-feira)
-  Efetivo: 1 policial(is)
+  Efetivo: 2 policial(is)
 ========================================================================
 
   [0009]  1º SGT PM   RG 79284     SUZANO                 Tipo: 12 horas
@@ -84,6 +84,13 @@
           Observações:
             TROCA
 @registro {"id":"e-cc6d93665ce97eda","semana":5,"mes":"2026-10","tipo":"h12","inicio":"2026-10-28","termino":"2026-10-30","dias":["2026-10-28","2026-10-30"],"grad":"1º SGT PM","rg":"79284","nome":"SUZANO","observacoes":"TROCA","criadoEm":1793198941799,"atualizadoEm":1793198941799}
+  ----------------------------------------------------------------------
+
+  [0010]  2º SGT PM   RG 83094     WAGNER                 Tipo: 12 horas
+          ID: e-19e233fb7c962280   |   Criado: 28/10/2026 11:49   |   Atualizado: 28/10/2026 11:49
+          Dias: QUA 28/10, SEX 30/10   (2 dias)
+          Observações: —
+@registro {"id":"e-19e233fb7c962280","semana":5,"mes":"2026-10","tipo":"h12","inicio":"2026-10-28","termino":"2026-10-30","dias":["2026-10-28","2026-10-30"],"grad":"2º SGT PM","rg":"83094","nome":"WAGNER","observacoes":"","criadoEm":1793198955673,"atualizadoEm":1793198955673}
   ----------------------------------------------------------------------
 
 # FIM DO ARQUIVO
